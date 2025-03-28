@@ -1,0 +1,12 @@
+{
+ "legacy.menu.mods": "Mod Menu",
+ "generator.moderner_beta.moderner_beta": "Classic World Generation",
+ "legacy.menu.download_natives_message": "Would you like to download these libraries to be able to play on Controller?",
+ "legacy.menu.downloading_natives": "Downloading Libraries",
+ "legacy.menu.loading_natives": "Loading Libraries",
+ "legacy.menu.download_natives": "Download %s Libraries",
+ "legacy.menu.assorts.minecraft": "Minecraft Textures",
+ "legacy.controls.controller.steam": "Steam Deck Edition",
+ "legacy.controls.controller.java": "Keyboard Icon",
+ "legacy.menu.assorts.minecraft_classic": "Minecraft Classic Textures"
+}
