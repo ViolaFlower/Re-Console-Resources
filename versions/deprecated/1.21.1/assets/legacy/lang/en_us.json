@@ -1,0 +1,20 @@
+{
+ "legacy.menu.mods": "Mod Menu",
+ "generator.moderner_beta.moderner_beta": "Classic World Generation",
+ "legacy.menu.download_natives_message": "Would you like to download these libraries to be able to play on Controller?",
+ "legacy.menu.downloading_natives": "Downloading Libraries",
+ "legacy.menu.loading_natives": "Loading Libraries",
+ "legacy.menu.download_natives": "Download %s Libraries",
+ "legacy.menu.albums.minecraft": "Minecraft Textures",
+ "legacy.controls.controller.steam": "Steam Deck Edition",
+ "legacy.controls.controller.java": "Keyboard Icon",
+ "legacy.menu.albums.resource": "Texture Packs",
+ "legacy.menu.albums.resource.template": "Texture Packs %s",
+ "legacy.menu.albums.resource.minecraft": "Minecraft Textures",
+ "legacy.menu.add_album": "Add Texture Pack",
+ "legacy.menu.album_info": "Enter the information for your Texture Pack",
+ "legacy.menu.album_options": "Texture Pack Options",
+ "legacy.menu.albums.resource.minecraft_classic": "Minecraft Classic Textures",
+ "legacy.menu.albums.resource.template.description": "A custom texture pack saved with the resource packs that were selected in the Resource Packs Screen! You can edit it in the resource_assorts.json file in the game directory.",
+ "legacy.menu.remove_album": "Remove Texture Pack"
+}
